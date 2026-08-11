@@ -1,0 +1,5 @@
+public class instance variable1 {
+    string name;
+    int age;
+    
+}
