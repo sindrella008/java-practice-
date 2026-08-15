@@ -1,0 +1,7 @@
+public class maxmarks{
+    public static void main(String[]args){
+        final int maxmarks=100;
+        System.out.println(maxmarks);
+
+    }
+}
